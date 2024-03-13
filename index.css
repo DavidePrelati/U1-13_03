@@ -8,7 +8,7 @@ header {
     color: antiquewhite;
 }
 
-main {
+main #myForm {
     padding: 10px;
     text-align: center;
     background-color: lightsalmon;
