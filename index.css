@@ -1,0 +1,18 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: rosybrown;
+    color: antiquewhite;
+}
+
+main {
+    padding: 10px;
+    text-align: center;
+    background-color: lightsalmon;
+    color: antiquewhite;
+    font-weight: 700;
+
+}
